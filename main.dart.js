@@ -66966,7 +66966,7 @@ n.cH(0)
 m=new A.SO(A.aV(t.Gf))
 l=A.aCw(new A.XJ(n,m))
 q=3
-k=A.r5("http://localhost:6400/products",0,null)
+k=A.r5("https://fakestoreapi.com/products/",0,null)
 s=6
 return A.ag(m.rY("GET",k,null),$async$hy)
 case 6:j=c
